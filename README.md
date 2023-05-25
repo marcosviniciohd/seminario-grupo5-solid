@@ -1,1 +1,6 @@
-# seminario-grupo5-solid
+# Seminário - Grupo 5 - Princípio Segregação da Interface
+
+
+
+
+
